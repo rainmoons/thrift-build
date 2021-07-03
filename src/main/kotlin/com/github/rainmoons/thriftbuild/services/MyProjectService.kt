@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.rainmoons.thriftbuild.services
 
+import com.github.rainmoons.thriftbuild.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
